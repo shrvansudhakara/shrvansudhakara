@@ -4,7 +4,7 @@
 
 <h3 align="left">About:</h3>
 
-- 🌱 I’m currently learning **n8n**
+- 🌱 I’m currently learning **Next.js**
 - 📫 Reach out: **shrvansudhakara@gmail.com**
 - ⚡ Fun fact: **I love Shawarma**
 <hr />
