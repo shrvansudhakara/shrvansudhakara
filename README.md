@@ -2,14 +2,14 @@
 <h3 align="center">An engineering undergrad </h3>
 <hr />
 
-<h3 align="left">About:</h3>
+<h3 align="left">About</h3>
 
 - 🌱 I’m currently learning **Next.js**
 - 📫 Reach out: **shrvansudhakara@gmail.com**
 - ⚡ Fun fact: **I love Shawarma**
 <hr />
 
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left">Tech Stack</h3>
 <p align="left">
     <a
         href="https://en.wikipedia.org/wiki/C_(programming_language)"
@@ -218,7 +218,7 @@
 
 <hr />
 
-<h3 align="left">Links:</h3>
+<h3 align="left">Links</h3>
 <p align="left">
     <a
         href="https://x.com/shrvansudhakara"
@@ -288,7 +288,7 @@
 </p>
 <hr />
 
-<h3 align="left">Badges:</h3>
+<h3 align="left">Badges</h3>
 
 [![Holopin](https://holopin.me/shrvansudhakara)](https://holopin.io/@shrvansudhakara)
 
